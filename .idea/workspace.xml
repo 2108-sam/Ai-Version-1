@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e19e7501-139a-4a8c-ae99-7844ec57ff23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5multiplicationtable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATMwithdrawal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Electricbillcalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradeing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guess_My_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Letter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parameter and Return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIMPLECALC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemperatureConverter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/characterstr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evenodd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localscope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loginsystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oterminator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpecalc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sumr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/traffic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wless.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wnum.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="39lVlavep3madRlD95qk8hPbucs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.5multiplicationtable.executor": "Run",
+    "Python.ATMwithdrawal.executor": "Run",
+    "Python.Boolean.executor": "Run",
+    "Python.Counting.executor": "Run",
+    "Python.Day.executor": "Run",
+    "Python.Factorial.executor": "Run",
+    "Python.Functions.executor": "Run",
+    "Python.Gradeing.executor": "Run",
+    "Python.Grading.executor": "Run",
+    "Python.Guess_My_Number.executor": "Run",
+    "Python.Letter.executor": "Run",
+    "Python.Name.executor": "Run",
+    "Python.Palindrome.executor": "Run",
+    "Python.Parameter and Return.executor": "Run",
+    "Python.Prime.executor": "Run",
+    "Python.SIMPLECALC.executor": "Run",
+    "Python.TemperatureConverter.executor": "Run",
+    "Python.average.executor": "Run",
+    "Python.characterstr.executor": "Run",
+    "Python.checker.executor": "Run",
+    "Python.even.executor": "Run",
+    "Python.evenodd.executor": "Run",
+    "Python.func.executor": "Run",
+    "Python.localscope.executor": "Run",
+    "Python.loginsystem.executor": "Run",
+    "Python.max.executor": "Run",
+    "Python.oterminator.executor": "Run",
+    "Python.password.executor": "Run",
+    "Python.reverse.executor": "Run",
+    "Python.simpecalc.executor": "Run",
+    "Python.star.executor": "Run",
+    "Python.string.executor": "Run",
+    "Python.sum.executor": "Run",
+    "Python.sumr.executor": "Run",
+    "Python.wless.executor": "Run",
+    "Python.wnum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e19e7501-139a-4a8c-ae99-7844ec57ff23" name="Changes" comment="" />
+      <created>1771270796218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771270796218</updated>
+    </task>
+    <servers />
+  </component>
+</project>
